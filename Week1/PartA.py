@@ -1,0 +1,6 @@
+print(17 // 5, 17 % 5, -17 // 5, -17 % 5)
+x = "5"; y = 3; print(x * y)
+print(7 / 2, 7 // 2, float(7) // 2, int(7.9))
+a = 10; b = 3; a, b = b, a + b; print(a, b)
+print(2 ** 3 ** 2)
+print(10 - 2 * 3 + 4 / 2)
