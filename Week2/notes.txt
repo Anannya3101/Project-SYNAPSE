@@ -1,0 +1,2 @@
+For this task, I did not use AI to write or debug the code. I already have a basic understanding of Python, including conditional statements, comparison operators, and logical operators. Therefore, I was able to complete the exercises independently.
+This task helped me revise my existing Python knowledge and improve my confidence in using decision-making statements. I also learned the importance of checking conditions in the correct order.
