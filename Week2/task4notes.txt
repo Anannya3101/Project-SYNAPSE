@@ -1,0 +1,9 @@
+I was already familiar with most of these concepts, so I completed the task independently without needing AI assistance.
+
+What I learned:
+1. Revised and verified my existing knowledge of if-else and nested if statements.
+2. Practised combining multiple conditions using and/or.
+3. Improved my understanding of comparing three numbers.
+4. Learned how to trace a program manually, step by step.
+5. Learned to handle equal values while finding the largest number.
+
