@@ -1,0 +1,19 @@
+
+Week 2 Wrap-up – Task 5
+
+1. What I asked AI:
+Most of these concepts were already familiar to me,
+so I did not need much help from AI.
+However, in Task 5, I took a little help from AI
+to identify and correct the error in Part C,
+especially to understand the correct order of conditions.
+
+2. What I initially found confusing:
+I needed a little guidance in understanding
+which condition should be checked first
+while correcting the debugging question.
+
+3. One thing I learned:
+This week's tasks helped me strengthen my
+foundation in conditional statements, nested
+conditions, comparison and logical operators.

@@ -1,0 +1,33 @@
+
+Part A: Predict
+
+Q1. Predict the output:
+
+n = 20
+if n > 10:
+    print("A")
+if n > 15:
+    print("B")
+else:
+    print("C")
+
+Answer:
+A
+B
+
+Explanation:
+Both conditions are True. The else belongs
+to the second if statement.
+
+Q2. Predict the output:
+
+a = 3
+b = "3"
+print(a == b, a == int(b))
+
+Answer:
+False True
+
+Explanation:
+An integer and a string are different data
+types. int(b) converts the string into an integer.
