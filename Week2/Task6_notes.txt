@@ -1,0 +1,11 @@
+
+Task 6 – Notes
+
+This task was mostly a revision of concepts I
+already knew, so I did not need much help
+from AI.
+
+I mainly revised if-elif-else, nested
+conditions, and short-circuit evaluation.
+
+

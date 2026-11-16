@@ -1,0 +1,9 @@
+Part C: Count the Checks
+
+(a) Valid Choice: Maximum 4 checks
+
+Reason: For choice 4, Python checks all four conditions before executing the matching block.
+
+(b) Invalid Choice: 4 checks
+
+Reason: Python checks all four conditions. If none is true, the `else` block executes. The `else` block does not count as a condition check.
