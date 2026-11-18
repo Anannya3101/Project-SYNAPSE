@@ -1,0 +1,10 @@
+
+Task 7 – First Loops
+
+AI Help:
+I was already familiar with most of these concepts, so I did not need much help from AI. However, I had forgotten the basic syntax of a for loop because I had learned it quite some time ago. I made a small syntax mistake while writing the code and used AI's help to correct it.
+
+What I Learned:
+This task helped me revise for loops, while loops, range(), and break. These concepts were already familiar to me, but practising them again helped strengthen my understanding.
+
+

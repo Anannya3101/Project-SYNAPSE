@@ -1,0 +1,15 @@
+Part C: Count the Steps
+
+1. When n = 10:
+
+- The loop body runs **10 times** (from 1 to 10).
+- The formula `n * (n + 1) // 2` requires a fixed number of arithmetic operations, regardless of n.
+
+2. When n = 1000:
+
+- The loop body runs **1000 times** (from 1 to 1000).
+- The formula still requires the same fixed number of arithmetic operations.
+
+Observation:
+
+As the value of n increases, the number of loop iterations also increases. However, the formula calculates the sum directly using a fixed number of operations. Therefore, the formula is more efficient for large values of n because it takes constant time, whereas the loop takes linear time, O(n).
